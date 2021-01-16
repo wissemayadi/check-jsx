@@ -1,0 +1,10 @@
+.titleRed{
+background-color: gray;
+color: brown;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+display:flex;
+flex-direction: row;
+justify-content: center;
+margin :auto;
+}
